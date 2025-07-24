@@ -1,6 +1,6 @@
 {
   "name": "bugnitor-security-scanner",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "description": "AI-Era Security Scanner: Intelligent automated security review agent specializing in AI-generated vulnerability patterns",
   "main": "dist/index.js",
   "bin": {
@@ -31,7 +31,7 @@
     "cli",
     "static-analysis"
   ],
-  "author": "ZunoBotics <contact@zunobotics.com>",
+  "author": "ZunoBotics <info@zunobotics.com>",
   "homepage": "https://github.com/ZunoBotics/bugnitor",
   "repository": {
     "type": "git",
