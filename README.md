@@ -4,7 +4,7 @@
 
 [![npm version](https://badge.fury.io/js/bugnitor-security-scanner.svg)](https://badge.fury.io/js/bugnitor-security-scanner)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js CI](https://github.com/yourusername/bugnitor/workflows/Node.js%20CI/badge.svg)](https://github.com/yourusername/bugnitor/actions)
+[![Node.js CI](https://github.com/ZunoBotics/bugnitor/workflows/Node.js%20CI/badge.svg)](https://github.com/ZunoBotics/bugnitor/actions)
 
 ## 🎯 Why Bugnitor?
 
@@ -468,7 +468,7 @@ We welcome contributions! Here's how to get started:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/bugnitor.git
+git clone https://github.com/ZunoBotics/bugnitor.git
 cd bugnitor
 
 # Install dependencies
@@ -538,18 +538,18 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 🔗 Links
 
 - **NPM Package**: https://www.npmjs.com/package/bugnitor-security-scanner
-- **GitHub Repository**: https://github.com/yourusername/bugnitor
-- **Issue Tracker**: https://github.com/yourusername/bugnitor/issues
-- **Documentation**: https://github.com/yourusername/bugnitor/wiki
+- **GitHub Repository**: https://github.com/ZunoBotics/bugnitor
+- **Issue Tracker**: https://github.com/ZunoBotics/bugnitor/issues
+- **Documentation**: https://github.com/ZunoBotics/bugnitor/wiki
 
 ## 🙋 Support
 
 ### Getting Help
 
-- 📖 **Documentation**: Check this README and the [Wiki](https://github.com/yourusername/bugnitor/wiki)
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/yourusername/bugnitor/issues/new?template=bug_report.md)
-- 💡 **Feature Requests**: [Request a feature](https://github.com/yourusername/bugnitor/issues/new?template=feature_request.md)
-- 💬 **Discussions**: [Join the discussion](https://github.com/yourusername/bugnitor/discussions)
+- 📖 **Documentation**: Check this README and the [Wiki](https://github.com/ZunoBotics/bugnitor/wiki)
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/ZunoBotics/bugnitor/issues/new?template=bug_report.md)
+- 💡 **Feature Requests**: [Request a feature](https://github.com/ZunoBotics/bugnitor/issues/new?template=feature_request.md)
+- 💬 **Discussions**: [Join the discussion](https://github.com/ZunoBotics/bugnitor/discussions)
 
 ### Common Issues
 
